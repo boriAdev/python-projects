@@ -1,4 +1,4 @@
-# 3 cup monte using Python.
+# 3 cup monte with Python.
 # uing a list to represen the 3 cups and the character "O" as the ball
 
 choose_a_cup_list = ['','O','']
